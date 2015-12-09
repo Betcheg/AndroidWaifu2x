@@ -10,6 +10,8 @@ Waifu2x permits images enhancement thanks to Neural Networks.
 
 Learn more about the Waifu2x project: https://github.com/nagadomi/waifu2x
 
+![Waifu2x example](http://image.noelshack.com/fichiers/2015/50/1449691952-resize.jpg)
+
 ## Screenshots 
 
 
